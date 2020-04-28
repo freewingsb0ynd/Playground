@@ -17,7 +17,7 @@ public class Main {
     list2.add(ObjectA.of(51));
     list2.add(ObjectA.of(34));
     list2.add(ObjectA.of(-102));
-    
+
     int results = INPUT;
     for (ObjectA obj : list1) {
       results += obj.getPrice();
