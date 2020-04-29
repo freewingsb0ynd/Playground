@@ -27,7 +27,6 @@ public class Main {
     System.out.println(result1+":   " + (time2 - time1));
     System.out.println(result2+":   " + (time3 - time2));
     System.out.println(result3+":   " + (time4 - time3));
-
     
     }
 
